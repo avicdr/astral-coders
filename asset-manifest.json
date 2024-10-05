@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64332a27.css",
+    "main.js": "/static/js/main.3689b2d4.js",
+    "static/js/453.fb9ffc79.chunk.js": "/static/js/453.fb9ffc79.chunk.js",
+    "static/media/HD134606c.png": "/static/media/HD134606c.cc155cebd6741e26b6a3.png",
+    "static/media/TOI-1794b.png": "/static/media/TOI-1794b.723d57eae4b8ef9325fa.png",
+    "static/media/HIP 39017 b.jpg": "/static/media/HIP 39017 b.2fed0675e402f0912848.jpg",
+    "static/media/TIC 46432937 b.jpg": "/static/media/TIC 46432937 b.e24e229960c9829243f4.jpg",
+    "static/media/HIP 8152 b.jpg": "/static/media/HIP 8152 b.fe264c382e180cf578b2.jpg",
+    "static/media/home_screen_sun.jpg": "/static/media/home_screen_sun.eb8c650938f5aa35f1c3.jpg",
+    "static/media/kepler_sun.jpg": "/static/media/kepler_sun.eb8c650938f5aa35f1c3.jpg",
+    "static/media/kepler.jpg": "/static/media/kepler.bbe835316554fc2cd5d4.jpg",
+    "static/media/TOI-6255b.png": "/static/media/TOI-6255b.71b276fc7297103e9ef7.png",
+    "static/media/HD134606star.jpg": "/static/media/HD134606star.468b8390274e58d314cc.jpg",
+    "static/media/HIP39017bStar.jpg": "/static/media/HIP39017bStar.3519b80302ceebf771c9.jpg",
+    "static/media/TIC46432937bstar.jpg": "/static/media/TIC46432937bstar.52570956e260d57c0ba9.jpg",
+    "static/media/astro.png": "/static/media/astro.51e32ec28e97b67e0961.png",
+    "static/media/TOI 5218 B.jpg": "/static/media/TOI 5218 B.8a42a8fd5138f6b4ea6f.jpg",
+    "static/media/galaxy.svg": "/static/media/galaxy.65800082684f265fcc57381d9cdca306.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.64332a27.css.map": "/static/css/main.64332a27.css.map",
+    "main.3689b2d4.js.map": "/static/js/main.3689b2d4.js.map",
+    "453.fb9ffc79.chunk.js.map": "/static/js/453.fb9ffc79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64332a27.css",
+    "static/js/main.3689b2d4.js"
+  ]
+}
